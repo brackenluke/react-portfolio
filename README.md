@@ -1,6 +1,9 @@
 # React Portfolio App
 This app was created to showoff the hardwork and learning i've done in bootcamp.
 
+## Credits
+I used the application Module 20 Mini-Project: Bucket List from the UTSA gitlab as an example. Some of the code I used was taken from there as an example.
+
 ## Description
 This is a react based app using node and vite to showoff my portfolio.
 
